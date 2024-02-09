@@ -1,0 +1,7 @@
+.escalar {
+      background-image: url(criptografia.jpg)
+      background-position: center;
+      background-size: cover; /* contain | cover | auto */
+      background-repeat: no-repeat;
+      background-attachment: scroll; /* fixed | scroll | local */
+}
